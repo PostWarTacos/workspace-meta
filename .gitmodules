@@ -1,6 +1,6 @@
 [submodule "Powershell-Modules"]
 	path = Powershell-Modules
-	url = C:/Users/wurtzmt/Documents/Coding/Powershell-Modules
+	url = https://github.com/PostWarTacos/Powershell-Modules.git
 [submodule "PowerShellProfile"]
 	path = PowerShellProfile
-	url = C:/Users/wurtzmt/Documents/Coding/PowerShellProfile
+	url = https://github.com/PostWarTacos/PowerShellProfile.git
