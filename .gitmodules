@@ -1,0 +1,6 @@
+[submodule "Powershell-Modules"]
+	path = Powershell-Modules
+	url = C:/Users/wurtzmt/Documents/Coding/Powershell-Modules
+[submodule "PowerShellProfile"]
+	path = PowerShellProfile
+	url = C:/Users/wurtzmt/Documents/Coding/PowerShellProfile

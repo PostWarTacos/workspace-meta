@@ -1,0 +1,11 @@
+{
+    "folders": [
+        { "path": "../Powershell-Modules" },
+        { "path": "../PowerShellProfile" }
+    ],
+    "settings": {
+    },
+    "extensions": {
+        "recommendations": []
+    }
+}
